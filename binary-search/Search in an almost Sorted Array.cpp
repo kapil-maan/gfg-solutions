@@ -1,3 +1,5 @@
+// easy
+
 class Solution {
     public:
       int findTarget(vector<int>& arr, int target) {
