@@ -1,3 +1,5 @@
+//medium
+
 #include <vector>
 
 class Solution {
